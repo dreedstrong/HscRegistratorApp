@@ -1,6 +1,8 @@
 # Hsc Registrator
 ## Руководство пользователя
 
+![Демо](https://drive.google.com/file/d/156A9jxGFJBSYcUNO6NYLbXoSq48yEVPE/view?usp=drive_link)
+
 ### Установка
 
 1. Скачать и установить [Microsoft .NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.7-windows-x64-installer)
