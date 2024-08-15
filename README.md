@@ -1,7 +1,7 @@
 # Hsc Registrator
 ## Руководство пользователя
 
-[Демо](https://drive.google.com/file/d/156A9jxGFJBSYcUNO6NYLbXoSq48yEVPE/view?usp=drive_link)
+[Демонстрация работы](https://drive.google.com/file/d/156A9jxGFJBSYcUNO6NYLbXoSq48yEVPE/view?usp=drive_link)
 
 ### Установка
 
