@@ -1,4 +1,4 @@
-# Hsc Registrator
+# Hsc Registrator v1.4
 ## Руководство пользователя
 
 [Демо](https://drive.google.com/file/d/156A9jxGFJBSYcUNO6NYLbXoSq48yEVPE/view?usp=drive_link)
