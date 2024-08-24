@@ -24,7 +24,7 @@
 Рекомендуемая ОС Windows 10 и выше.
 
 1. Скачать и установить [Microsoft .NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.7-windows-x64-installer)
-2. Скачать архив [HscRegistrator.zip](https://github.com/thor836/HscRegistratorApp/releases) и распаковать;
+2. Скачать архив [HscRegistrator.zip](https://github.com/thor836/HscRegistratorApp/releases/tag/v1.6) и распаковать;
 3. Запустить файл из папки с программой: <code>install.cmd</code>;
 *(Эта команда выполняется только один раз за все время пользования программой. Данная команда установит специальный браузер, для интеграции с кодом программы)*;
 4. Положить файл <code>license.key</code> в папку с программой *(этот файл предоставляется разработчиком отдельно)*;
